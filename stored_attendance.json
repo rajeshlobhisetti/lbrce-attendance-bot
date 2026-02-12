@@ -1,5 +1,90 @@
 {
-  "subjects": [],
-  "overall_percentage": "",
-  "timestamp": "11/02/2026 11:26"
+  "subjects": [
+    {
+      "sno": "1",
+      "subject": "Compiler Design",
+      "held": 31,
+      "present": 26,
+      "percentage": "83.9%"
+    },
+    {
+      "sno": "2",
+      "subject": "Cloud Computing",
+      "held": 14,
+      "present": 10,
+      "percentage": "71.4%"
+    },
+    {
+      "sno": "3",
+      "subject": "Cryptography & Network Security",
+      "held": 31,
+      "present": 25,
+      "percentage": "80.6%"
+    },
+    {
+      "sno": "4",
+      "subject": "Machine Learning",
+      "held": 24,
+      "present": 21,
+      "percentage": "87.5%"
+    },
+    {
+      "sno": "5",
+      "subject": "Software Project Management",
+      "held": 24,
+      "present": 19,
+      "percentage": "79.2%"
+    },
+    {
+      "sno": "6",
+      "subject": "Disaster Management",
+      "held": 7,
+      "present": 7,
+      "percentage": "100.0%"
+    },
+    {
+      "sno": "7",
+      "subject": "Cloud Computing Lab",
+      "held": 15,
+      "present": 15,
+      "percentage": "100.0%"
+    },
+    {
+      "sno": "8",
+      "subject": "Cryptography & Network Security Lab",
+      "held": 24,
+      "present": 21,
+      "percentage": "87.5%"
+    },
+    {
+      "sno": "9",
+      "subject": "Soft Skills",
+      "held": 15,
+      "present": 15,
+      "percentage": "100.0%"
+    },
+    {
+      "sno": "10",
+      "subject": "Technical Paper Writing & IPR",
+      "held": 14,
+      "present": 11,
+      "percentage": "78.6%"
+    },
+    {
+      "sno": "11",
+      "subject": "ASSOCIATION",
+      "held": 8,
+      "present": 6,
+      "percentage": "75.0%"
+    },
+    {
+      "sno": "12",
+      "subject": "Technical Training",
+      "held": 21,
+      "present": 18,
+      "percentage": "85.7%"
+    }
+  ],
+  "overall_percentage": "85.09 %",
+  "timestamp": "12/02/2026 04:06"
 }
