@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 41,
-      "present": 34,
-      "percentage": "82.9%"
+      "held": 42,
+      "present": 35,
+      "percentage": "83.3%"
     },
     {
       "sno": "2",
@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 40,
-      "present": 32,
-      "percentage": "80.0%"
+      "held": 41,
+      "present": 33,
+      "percentage": "80.5%"
     },
     {
       "sno": "4",
@@ -73,9 +73,9 @@
     {
       "sno": "11",
       "subject": "ASSOCIATION",
-      "held": 10,
-      "present": 8,
-      "percentage": "80.0%"
+      "held": 11,
+      "present": 9,
+      "percentage": "81.8%"
     },
     {
       "sno": "12",
@@ -85,6 +85,6 @@
       "percentage": "77.8%"
     }
   ],
-  "overall_percentage": "84.19 %",
-  "timestamp": "28/02/2026 03:29"
+  "overall_percentage": "84.35 %",
+  "timestamp": "28/02/2026 10:49"
 }
