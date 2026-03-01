@@ -24,9 +24,9 @@
     {
       "sno": "4",
       "subject": "Machine Learning",
-      "held": 31,
-      "present": 28,
-      "percentage": "90.3%"
+      "held": 32,
+      "present": 29,
+      "percentage": "90.6%"
     },
     {
       "sno": "5",
@@ -85,6 +85,6 @@
       "percentage": "77.8%"
     }
   ],
-  "overall_percentage": "84.35 %",
-  "timestamp": "28/02/2026 10:49"
+  "overall_percentage": "84.41 %",
+  "timestamp": "01/03/2026 04:05"
 }
