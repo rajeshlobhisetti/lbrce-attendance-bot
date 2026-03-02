@@ -3,16 +3,16 @@
     {
       "sno": "1",
       "subject": "Compiler Design",
-      "held": 42,
-      "present": 35,
-      "percentage": "83.3%"
+      "held": 43,
+      "present": 36,
+      "percentage": "83.7%"
     },
     {
       "sno": "2",
       "subject": "Cloud Computing",
-      "held": 15,
-      "present": 11,
-      "percentage": "73.3%"
+      "held": 16,
+      "present": 12,
+      "percentage": "75.0%"
     },
     {
       "sno": "3",
@@ -85,6 +85,6 @@
       "percentage": "77.8%"
     }
   ],
-  "overall_percentage": "84.56 %",
-  "timestamp": "02/03/2026 03:55"
+  "overall_percentage": "84.67 %",
+  "timestamp": "02/03/2026 11:10"
 }
