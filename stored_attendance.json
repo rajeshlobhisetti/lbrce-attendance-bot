@@ -17,9 +17,9 @@
     {
       "sno": "3",
       "subject": "Cryptography & Network Security",
-      "held": 52,
-      "present": 42,
-      "percentage": "80.8%"
+      "held": 53,
+      "present": 43,
+      "percentage": "81.1%"
     },
     {
       "sno": "4",
@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Software Project Management",
-      "held": 39,
-      "present": 33,
-      "percentage": "84.6%"
+      "held": 40,
+      "present": 34,
+      "percentage": "85.0%"
     },
     {
       "sno": "6",
@@ -80,11 +80,11 @@
     {
       "sno": "12",
       "subject": "Technical Training",
-      "held": 36,
-      "present": 30,
-      "percentage": "83.3%"
+      "held": 39,
+      "present": 33,
+      "percentage": "84.6%"
     }
   ],
-  "overall_percentage": "85.44 %",
-  "timestamp": "25/03/2026 04:01"
+  "overall_percentage": "85.61 %",
+  "timestamp": "25/03/2026 11:24"
 }
