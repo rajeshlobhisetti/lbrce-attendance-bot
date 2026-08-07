@@ -3,16 +3,16 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 22,
-      "present": 20,
-      "percentage": "90.9%"
+      "held": 23,
+      "present": 21,
+      "percentage": "91.3%"
     },
     {
       "sno": "2",
       "subject": "Human Resources & Project Management",
-      "held": 15,
-      "present": 14,
-      "percentage": "93.3%"
+      "held": 16,
+      "present": 15,
+      "percentage": "93.8%"
     },
     {
       "sno": "3",
@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 21,
-      "present": 19,
-      "percentage": "90.5%"
+      "held": 22,
+      "present": 20,
+      "percentage": "90.9%"
     },
     {
       "sno": "6",
@@ -52,8 +52,8 @@
     {
       "sno": "8",
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 8,
-      "present": 8,
+      "held": 10,
+      "present": 10,
       "percentage": "100.0%"
     },
     {
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "90.37 %",
-  "timestamp": "07/08/2026 04:07"
+  "overall_percentage": "90.62 %",
+  "timestamp": "07/08/2026 11:25"
 }
