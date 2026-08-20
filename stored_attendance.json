@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 31,
-      "present": 28,
-      "percentage": "90.3%"
+      "held": 32,
+      "present": 29,
+      "percentage": "90.6%"
     },
     {
       "sno": "2",
@@ -24,16 +24,16 @@
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 36,
-      "present": 32,
-      "percentage": "88.9%"
+      "held": 37,
+      "present": 33,
+      "percentage": "89.2%"
     },
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 27,
+      "held": 28,
       "present": 24,
-      "percentage": "88.9%"
+      "percentage": "85.7%"
     },
     {
       "sno": "6",
@@ -45,9 +45,9 @@
     {
       "sno": "7",
       "subject": "Constitution of India",
-      "held": 16,
-      "present": 15,
-      "percentage": "93.8%"
+      "held": 17,
+      "present": 16,
+      "percentage": "94.1%"
     },
     {
       "sno": "8",
@@ -78,6 +78,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "90.34 %",
-  "timestamp": "20/08/2026 02:34"
+  "overall_percentage": "90.08 %",
+  "timestamp": "20/08/2026 10:59"
 }
