@@ -3,9 +3,9 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 41,
-      "present": 37,
-      "percentage": "90.2%"
+      "held": 42,
+      "present": 38,
+      "percentage": "90.5%"
     },
     {
       "sno": "2",
@@ -31,9 +31,9 @@
     {
       "sno": "5",
       "subject": "Utilization of Electrical Energy",
-      "held": 35,
-      "present": 29,
-      "percentage": "82.9%"
+      "held": 36,
+      "present": 30,
+      "percentage": "83.3%"
     },
     {
       "sno": "6",
@@ -59,9 +59,9 @@
     {
       "sno": "9",
       "subject": "Technical Training",
-      "held": 30,
-      "present": 24,
-      "percentage": "80.0%"
+      "held": 33,
+      "present": 27,
+      "percentage": "81.8%"
     },
     {
       "sno": "10",
@@ -78,6 +78,6 @@
       "percentage": "85.7%"
     }
   ],
-  "overall_percentage": "89.26 %",
-  "timestamp": "15/09/2026 15:13"
+  "overall_percentage": "89.44 %",
+  "timestamp": "16/09/2026 06:17"
 }
