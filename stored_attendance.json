@@ -24,9 +24,9 @@
     {
       "sno": "4",
       "subject": "Generative AI",
-      "held": 50,
+      "held": 52,
       "present": 44,
-      "percentage": "88.0%"
+      "percentage": "84.6%"
     },
     {
       "sno": "5",
@@ -38,9 +38,9 @@
     {
       "sno": "6",
       "subject": "Prompt Engineering",
-      "held": 36,
-      "present": 35,
-      "percentage": "97.2%"
+      "held": 39,
+      "present": 38,
+      "percentage": "97.4%"
     },
     {
       "sno": "7",
@@ -78,6 +78,6 @@
       "percentage": "87.5%"
     }
   ],
-  "overall_percentage": "88.4 %",
-  "timestamp": "21/09/2026 16:34"
+  "overall_percentage": "87.96 %",
+  "timestamp": "22/09/2026 06:27"
 }
