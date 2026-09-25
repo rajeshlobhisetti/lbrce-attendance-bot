@@ -3,16 +3,16 @@
     {
       "sno": "1",
       "subject": "Deep Learning",
-      "held": 48,
-      "present": 39,
-      "percentage": "81.3%"
+      "held": 49,
+      "present": 40,
+      "percentage": "81.6%"
     },
     {
       "sno": "2",
       "subject": "Human Resources & Project Management",
-      "held": 27,
-      "present": 25,
-      "percentage": "92.6%"
+      "held": 28,
+      "present": 26,
+      "percentage": "92.9%"
     },
     {
       "sno": "3",
@@ -78,6 +78,6 @@
       "percentage": "87.5%"
     }
   ],
-  "overall_percentage": "84.96 %",
-  "timestamp": "25/09/2026 06:17"
+  "overall_percentage": "85.04 %",
+  "timestamp": "25/09/2026 15:28"
 }
